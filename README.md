@@ -30,5 +30,5 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Screenshots
-![Image alt]
-![Image alt]
+![Image alt](https://github.com/DippaFudd/Professional-Portfolio/blob/1f10ddeb4508369cc93bd2f1a9dd7b8915a51b8e/2025-03-27%20(11).png)
+![Image alt](https://github.com/DippaFudd/Professional-Portfolio/blob/1f10ddeb4508369cc93bd2f1a9dd7b8915a51b8e/2025-03-27%20(12).png)
